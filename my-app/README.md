@@ -1,36 +1,36 @@
 # Cuisine Creations
 App that allows you to browse through recipes and add them to your grocery list. Recipes have ingredients lists, instructions, and ratings!
-##Tables
-Ingredients:
--Id
--Calories
--Macros
--Name
--Recipes_id
--Users_id
+## Tables
+**Ingredients:**
+* Id
+* Calories
+* Macros
+* Name
+* Recipes_id
+* Users_id
 
-Recipes:
--Id
--Name
--Age
--Username
--Password
+**Users:**
+* Id
+* Name
+* Age
+* Username
+* Password
 
-Recipes:
--Id
--Ingredient list
--Recipe Name
--Total Calories
--Total macros
--Star Rating
--Users_id
+**Recipes:**
+* Id
+* Ingredient list
+* Recipe Name
+* Total Calories
+* Total macros
+* Star Rating
+* Users_id
 
-Grocerys:
--Id
--Users_id
--Recipes_id
+**Grocerys:**
+* Id
+* Users_id
+* Recipes_id
 
-##User Stories
+## User Stories
 -I want to be able to see all the recipes laid out.
 
 -I want to be able to click on a recipe and enter a new page about that recipe that has details like ingredient list, calories, macros, instructions, average rating, and number of favorites. 
@@ -45,5 +45,5 @@ Grocerys:
 
 -I want to be able to create a new user for myself
 
-#Frameworks
+## Frameworks
 
