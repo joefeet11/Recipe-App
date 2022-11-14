@@ -1,5 +1,5 @@
 # Cuisine Creations
-
+App that allows you to browse through recipes and add them to your grocery list. Recipes have ingredients lists, instructions, and ratings!
 ##Tables
 Ingredients:
 -Id
