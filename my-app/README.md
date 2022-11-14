@@ -47,6 +47,14 @@ App that allows you to browse through recipes and add them to your grocery list.
 
 ## Frameworks
 ![Frontpage](https://i.imgur.com/TFZlFcl.jpg)
+
+
 ![Recipepage](https://i.imgur.com/XSpYEov.jpg)
+
+
 ![Ingredient](https://i.imgur.com/0NFbcvI.jpg)
+
+
 ![Grocery](https://i.imgur.com/wii0qGy.jpg)
+
+
