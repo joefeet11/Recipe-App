@@ -1,6 +1,6 @@
 # Cuisine Creations
 
-#Tables
+##Tables
 Ingredients:
 Id
 Calories
@@ -30,7 +30,7 @@ Id
 Users_id
 Recipes_id
 
-#User Stories
+##User Stories
 I want to be able to see all the recipes laid out.
 
 I want to be able to click on a recipe and enter a new page about that recipe that has details like ingredient list, calories, macros, instructions, average rating, and number of favorites. 
